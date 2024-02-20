@@ -17,11 +17,11 @@ The objective can be broken down into the following detailed components;
 (4) Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth,efficiency and customer satisfaction.
 
 # Step-by-Step project Overview:
-Project Objective
-Data Cleaning
-DAX Queries
-Dashboard
-Sales Forecasting
+(1) Project Objective
+(2) Data Cleaning
+(3) DAX Queries
+(4) Dashboard
+(5) Sales Forecasting
 
 # Learnings :-  
 Incorporated data analysis techniques, specializing in TIME SERIES ANALYSIS,to deliver valuable Insights,accurate SALES FORECASTING and Interactive DASHBOARD creation,driving business success.
