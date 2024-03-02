@@ -18,11 +18,15 @@ The objective can be broken down into the following detailed components;
 
 # Step-by-Step project Overview:
 
-(1) Project Objective
-(2) Data Cleaning
-(3) DAX Queries
-(4) Dashboard
-(5) Sales Forecasting
+1.) Project Objective
+
+2.) Data Cleaning
+
+3.) DAX Queries
+
+4.) Dashboard
+
+5.) Sales Forecasting
 
 # Learnings: 
 Incorporated data analysis techniques, specializing in 'TIME SERIES ANALYSIS',to deliver valuable'Insights',accurate 'SALES FORECASTING' and 'Interactive DASHBOARD' creation,driving business success.
